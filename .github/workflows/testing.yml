@@ -3,7 +3,7 @@ name: Testing for basic hello world shell scripting
 on:
   push:
     branches:
-      - Project1
+      - main
   pull_request:
     branches:
       - main
