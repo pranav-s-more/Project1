@@ -3,7 +3,7 @@ name: Testing for basic hello world shell scripting
 on:
   push:
     branches:
-      - github-branch
+      - Project1
   pull_request:
     branches:
       - main
