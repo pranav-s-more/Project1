@@ -2,7 +2,7 @@ name: Build the CI job for nodejs application
 on:
   push:
     branches:
-      - ci-branch
+      - Project1
   pull_request:
     branches:
       - main
